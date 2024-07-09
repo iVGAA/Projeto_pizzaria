@@ -1,0 +1,6 @@
+Ecommerce para Pizzaria Gostin Baumm!
+
+Até um momento as funcionalidades desse aplicativo se delimitam a uma home.
+
+Contendo:
+- Adição de itens ao carrinho.
